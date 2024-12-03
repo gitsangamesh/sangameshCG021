@@ -1,3 +1,9 @@
-hello good afternoon everyone
-hey 
-bye
+welcome=input("enter welcome message")
+print("Hello Everyone")
+print('your msg is')
+print(welcome)
+msg='hello'
+hello
+How are you
+ i am fine 
+AGMRCET varur 
